@@ -6,7 +6,7 @@ import photo from "./Assets/Rahul.jpg";
 function App() {
   return (
     <>
-      <Navbar title="Rahul !" aboutme="LinkedIn" />
+      <Navbar title="Rahul Game !" aboutme="LinkedIn" />
 
       <img src={photo} class="img-thumbnail" alt="..." />
     </>
