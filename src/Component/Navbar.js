@@ -26,7 +26,7 @@ export default function Navbar(props) {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://www.linkedin.com/in/rahul-game-a549b24a/" target="_blank">
+              <a className="nav-link" href="https://www.linkedin.com/in/rahul-game-a549b24a/" target="_blank" rel="noreferrer" >
                 {props.aboutme}
               </a>
             </li>
